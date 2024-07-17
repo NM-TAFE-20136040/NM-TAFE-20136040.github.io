@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-### About
-
 I'm Robert MacLeod and I've been programming on and off for most of my life.
 
 #### Education
